@@ -12,7 +12,7 @@ Welcome to the official **Lenders Hub Marketplace** development team GitHub! We'
   Open-source contributions, backend development (Laravel), frontend/UI development (React, Next.js), and mobile app development (React Native/Flutter). We're always excited to collaborate with developers who share our passion for innovation!
 
 - 📫 **How to reach us:**  
-  You can reach out to us via email at [info@lendershubmarketplace.com](mailto:info@lendershubmarketplace.com) or check out our website: [www.lendershubmarketplace.com](https://www.lendershubmarketplace.com).
+  You can reach out to us via email at [support@lendershubmarketplace.com](mailto:support@lendershubmarketplace.com) or check out our website: [www.lendershubmarketplace.com](https://www.lendershubmarketplace.com).
 
 - 😄 **Pronouns:**  
   We embrace diversity and inclusion, and our team uses all pronouns to foster a welcoming environment.
